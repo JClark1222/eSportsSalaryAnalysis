@@ -1,9 +1,9 @@
-#Project Description:
+# Project Description
 
-Project Overview:
+## Project Overview
 Esports has rapidly gained popularity over the past decade, with professional gamers and competitive gaming tournaments now offering substantial earnings potential. This data analysis project aims to explore and understand the trends in esports earnings using data visualization and statistical analysis. We will utilize Jupyter Notebooks along with Python libraries such as Seaborn, Matplotlib, and NumPy to achieve our objectives.
 
-Project Objectives:
+## Project Objectives
 
 Data Collection: Gather relevant data on esports earnings, including earnings by players, teams, games, and tournaments. This data may be collected from publicly available sources, APIs, or datasets.
 
