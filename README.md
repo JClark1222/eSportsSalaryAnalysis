@@ -14,3 +14,7 @@ __Exploratory Data Analysis (EDA):__ Conduct an in-depth exploratory data analys
 __Earnings by Game Analysis:__ Analyze the earnings of professional gamers and teams, focusing on specific games. Identify the top-earning players and teams, and visualize their earnings over time.
 
 __Tournament Analysis:__ Investigate the relationship between esports earnings and tournaments. Determine which tournaments offer the highest prize pools and analyze the distribution of earnings among participants.
+
+__Visualization:__ Create interactive and informative data visualizations using Seaborn and Matplotlib to communicate the findings effectively. Visualizations should be integrated into the Jupyter Notebook.
+
+__Documentation:__ Provide clear documentation within the Jupyter Notebook, including explanations of data preprocessing steps, analysis methodologies, and insights gained from the data.
